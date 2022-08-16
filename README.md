@@ -1,6 +1,6 @@
 # britbot
 
-Creator: Jack (Discord: TheBritGuy#4465)
+Creator: Jack (Discord: jackwinwit#4465)
 
 Language: Javascript
 
